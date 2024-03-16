@@ -1,0 +1,31 @@
+
+body{
+    background-color: #f8f9fa;
+}
+.container{
+    border-radius: 10px;
+    background-color: white;
+}
+.form-bg{
+    background-color: white;
+}
+.left-box{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 10px;
+}
+.right-box{
+    padding-top: 10px;
+}
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 10px;
+}
+.second{
+    padding-left: 10px;
+    padding-right: 10px;
+}
